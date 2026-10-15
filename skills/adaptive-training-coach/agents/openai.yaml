@@ -1,0 +1,6 @@
+interface:
+  display_name: "自适应训练教练"
+  short_description: "按目标与实际反馈逐次安排训练，附动作说明、负荷调整、周期复盘及可选手机训练卡"
+  default_prompt: "使用 $adaptive-training-coach，根据我的训练经历和目标建立档案，并安排下一次训练。"
+policy:
+  allow_implicit_invocation: true

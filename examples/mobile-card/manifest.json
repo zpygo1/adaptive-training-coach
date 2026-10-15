@@ -1,0 +1,22 @@
+{
+  "training_id": "example-first-session",
+  "version": "v1",
+  "sha256": "165ee2c3937dcd9da81f90de08a1a1038bdea30bed8a7e44b923497b201f58be",
+  "html": [
+    "card-01.html",
+    "card-02.html",
+    "card-03.html",
+    "card-04.html",
+    "card-05.html",
+    "card-06.html"
+  ],
+  "png": [
+    "card-01.png",
+    "card-02.png",
+    "card-03.png",
+    "card-04.png",
+    "card-05.png",
+    "card-06.png"
+  ],
+  "png_status": "complete"
+}
